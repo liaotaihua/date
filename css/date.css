@@ -1,0 +1,9 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+div{
+	margin: 200px;
+	font-size: 30px;
+	color: #006600;
+}
